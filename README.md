@@ -3,16 +3,14 @@ pipeline_tag: text-generation
 frameworks:
   - PyTorch
 license: apache-2.0
----- they might want nothing more than destruction itself rather then anything else from their quest after immortality (and maybe someone should tell them about modern medicine)? In any event though – one thing remains true regardless : whether or not success comes easy depends entirely upon how much effort we put into conquering whatever challenges lie ahead along with having faith deep down inside ourselves too ;) So let’s get started now shall We?"
 ---
+
+ they might want nothing more than destruction itself rather then anything else from their quest after immortality (and maybe someone should tell them about modern medicine)? In any event though – one thing remains true regardless : whether or not success comes easy depends entirely upon how much effort we put into conquering whatever challenges lie ahead along with having faith deep down inside ourselves too ;) So let’s get started now shall We?"
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01-ai/Yi/main/assets/img/Yi_logo_icon_dark.svg" width="200px">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01-ai/Yi/main/assets/img/Yi_logo_icon_light.svg" width="200px"> 
-  <img alt="specify theme context for images" src="https://raw.githubusercontent.com/01-ai/Yi/main/assets/img/Yi_logo_icon_light.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/01-ai/Yi/main/assets/img/Yi_logo_icon_light.svg" alt="specify theme context for images" width="200px">
+
 
 </br>
 </br>
